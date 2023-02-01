@@ -1,2 +1,3 @@
-# QG-Auto-On-the-web-
+# QG Auto
 一个会自动刷强国的js脚本
+它可在油猴与脚本猫中运行
